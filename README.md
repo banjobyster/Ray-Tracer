@@ -12,7 +12,7 @@ This ray tracer uses the path tracing technique to send many rays for each pixel
 <div>
 It also has a camera which can be moved by :
 <ul>
-  <li>WASD to move in camera's horizontal plane</li>
+  <li>WASD to move in x-z plane</li>
   <li>Spacebar and Left-Ctrl to move in the y axis</li>
   <li>NUMPAD 8 and 2 to rotate vertically</li>
   <li>NUMPAD 4 and 6 to rotate horizontally</li>
