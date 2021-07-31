@@ -598,7 +598,7 @@ bool loop()
 
     //if want to create animation, decomment the following two and comment progSampling
     //Sampling();
-    bufferTOscreen();
+    //bufferTOscreen();
 
 
     // Update window
