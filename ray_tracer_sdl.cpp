@@ -747,7 +747,6 @@ void progSampling() {
 
 bool init()
 {
-    // See last example for comments
     if (SDL_Init(SDL_INIT_EVERYTHING) < 0)
     {
         cout << "Error initializing SDL: " << SDL_GetError() << endl;
