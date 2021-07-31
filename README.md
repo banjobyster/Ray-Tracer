@@ -2,7 +2,7 @@
 Ray tracer created with C++ and SDL2
 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/77842809/127741005-8fbba984-0270-41a2-8e46-67f5f6bf4fa1.png)
 
 
 <div>
